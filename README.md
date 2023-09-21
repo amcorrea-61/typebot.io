@@ -6,7 +6,7 @@
   <a href="https://typebot.io/#gh-dark-mode-only" target="_blank">
     <img src="./.github/images/logo-dark.png" alt="Typebot illustration" width="350px">
   </a>
-</p>
+</p>d
 <br />
 
 <p align="center">
